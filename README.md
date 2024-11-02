@@ -148,8 +148,4 @@ Text   30 mins         ███████████████████
 </table>
 
 
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#191](https://github.com/tangyoha/telegram_media_downloader/issues/191#issuecomment-2381862499) in [tangyoha/telegram_media_downloader]([https://github.com/tangyoha/telegram_media_downloader](https://github.com/stk-king/three.js-with-vue))
 <!--END_SECTION:activity-->
